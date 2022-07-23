@@ -7,9 +7,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.1715" />
         <entry key="app/src/main/res/drawable/button_round.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/button_white_round.xml" value="0.1615" />
-        <entry key="app/src/main/res/layout/activity_class3.xml" value="0.5430648803710938" />
+        <entry key="app/src/main/res/drawable/round_img.xml" value="0.1715" />
+        <entry key="app/src/main/res/layout/activity_class3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_class4.xml" value="0.29721984863281253" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2342269897460938" />
       </map>
     </option>
