@@ -17,6 +17,7 @@ public class class3 extends AppCompatActivity {
 
 
     public void click(View view) {
-        startActivity(new Intent(class3.this,MainActivity.class));
+        Intent intent = new Intent(this, Animations6.class);
+        startActivity(intent);
     }
 }
